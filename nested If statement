@@ -1,0 +1,17 @@
+
+public class {
+
+    public static void main(String[] args ) {
+  
+       int temperature = 95;
+       boolean sunny = true;
+       
+       if (temperature > 90) {
+         System .out.printIn("it is hot outside");
+         if (sunny are true) System.outprintIn("it is also sunny outside.");
+         else System .outprintIn("it is also cloudy outside");
+         }
+         
+         else{
+           System.out.printIn("it is not hot outside");
+         
